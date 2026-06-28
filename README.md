@@ -50,18 +50,6 @@ I regularly contribute back to the tools I build on. A few I've sent PRs to:
 
 ---
 
-### 📌 Selected Work
-
-| Project | What it does |
-| --- | --- |
-| [**private-ethereum-blockchain**](https://github.com/hdt12a1/private-ethereum-blockchain) | Private Ethereum network (PoA) deployed on Kubernetes |
-| [**message-broker-mastery**](https://github.com/hdt12a1/message-broker-mastery) | Hands-on reference across multiple message-broker technologies |
-| [**cross-chain-flow**](https://github.com/hdt12a1/cross-chain-flow) | Cross-chain architecture & documentation |
-| [**aws-iam-role-anywhere**](https://github.com/hdt12a1/aws-iam-role-anywhere) | AWS IAM Roles Anywhere setup for workloads outside AWS |
-| [**qdrant-tutorial**](https://github.com/hdt12a1/qdrant-tutorial) | Practical guide to the Qdrant vector database |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
