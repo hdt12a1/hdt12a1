@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Huynh Duc Tran 👋</h1>
 
 <p align="center">
-  <b>DevOps & Cloud Engineer in Fintech</b> — building reliable infrastructure for stock, banking & blockchain systems.
+  <b>DevOps, Cloud & AI Infrastructure Engineer in Fintech</b> — building reliable platforms for stock, banking & blockchain, and bringing AI into daily engineering.
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@
 - 🛠️ Day-to-day: **Kubernetes**, **AWS**, CI/CD automation, and platform reliability.
 - ⛓️ I run **private Ethereum networks** (PoA) and build **cross-chain** tooling.
 - 📨 I work across distributed backends: **message brokers**, **vector databases**, and observability.
+- 🤖 I build **AI infrastructure** — LLM gateways, RAG pipelines, vector search — and apply **AI agents** to automate daily engineering work.
 - 🌍 Active **open-source contributor** — I ship PRs to projects I depend on (e.g. [BerriAI/litellm](https://github.com/BerriAI/litellm)).
 
 ---
@@ -34,8 +35,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-6E40C9?style=flat&logo=litellm&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat&logo=databricks&logoColor=white)
 
 ---
 
