@@ -20,6 +20,7 @@
 - 📨 I work across distributed backends: **message brokers**, **vector databases**, and observability.
 - 🤖 I build **AI infrastructure** — LLM gateways, RAG pipelines, vector search — and apply **AI agents** to automate daily engineering work.
 - 🌍 Active **open-source contributor** — I ship PRs to projects I depend on (e.g. [BerriAI/litellm](https://github.com/BerriAI/litellm)).
+- 🛠️ I **build in public** — sharing tutorials, working setups, and lessons learned as open repos so others can build on them.
 
 ---
 
@@ -69,4 +70,4 @@ I regularly contribute back to the tools I build on. A few I've sent PRs to:
 
 ---
 
-<p align="center"><i>Open to DevOps / Cloud / Platform Engineering roles in fintech — let's talk.</i></p>
+<p align="center"><i>Building in public · Open to DevOps / Cloud / AI Infrastructure roles in fintech — let's talk.</i></p>
